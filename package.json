@@ -1,0 +1,11 @@
+{
+  "name": "recepiebook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Patrik Bergsängel",
+  "license": "ISC"
+}
